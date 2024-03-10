@@ -311,24 +311,24 @@ print(le.inverse_transform(x_single_prediction))
 
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![image](https://github.com/Praveen0500/nn-classification/assets/120218611/2dc437ca-7e1a-4d32-9487-326ca9a9f210)
 
-![image](https://github.com/PSriVarshan/nn-classification/assets/114944059/9d3c6a26-60bf-4414-97a3-cd6913e8a60e)
 
 
 ### Classification Report
 
+![image](https://github.com/Praveen0500/nn-classification/assets/120218611/60604063-0ade-4e40-bcb9-9f6a440fc081)
 
-![image](https://github.com/PSriVarshan/nn-classification/assets/114944059/e852844a-ea37-4b0d-bc5f-3d6f407d8ef3)
 
 
 
 ### Confusion Matrix
 
-![image](https://github.com/PSriVarshan/nn-classification/assets/114944059/44d78441-89a6-4174-a2fc-4b011017e6b2)
+![image](https://github.com/Praveen0500/nn-classification/assets/120218611/243e3611-6539-46ff-9e96-fb26e1291a91)
 
 ### New Sample Data Prediction
 
-![image](https://github.com/PSriVarshan/nn-classification/assets/114944059/d6897d36-4811-4de8-9e47-0832a77a4921)
+![image](https://github.com/Praveen0500/nn-classification/assets/120218611/c2fc2545-278a-4fca-8c8e-9e47cf6408ec)
 
 
 ## RESULT
