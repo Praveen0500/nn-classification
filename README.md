@@ -239,7 +239,7 @@ X_test_scaled[:,2] = scaler_age.transform(X_test[:,2].reshape(-1,1)).reshape(-1)
 ai_brain = Sequential([
   Dense(4,input_shape=(8,)),
   Dense(8,activation='relu'),
-  Dense(8,activation='relu'),
+  Dense(16,activation='relu'),
   Dense(4,activation='softmax'),
 ])
 ```
